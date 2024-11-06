@@ -1,12 +1,13 @@
 # Site settings
-title:
-email:
+title: "GreenFit AI - Product Showcase"
+email: "greenfitai.team@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+  "Find out about sustainability in your favorite sport clothing brands, in just one click!"
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://astrabert.github.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: starrynightdev
+github_username: astrabert
 
 # Build settings
 markdown: kramdown
